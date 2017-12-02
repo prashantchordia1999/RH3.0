@@ -54,8 +54,8 @@
 				<footer id="footer" style="padding-top: 10px;padding-bottom: 40px;background-color: #ff2000fc;" >
 					<ul class="copyright">
 						
-						<li style="color: white;font-size: 20px;"><strong>© THE REAL LIVING 2017. All rights reserved.</strong></li>
-					</ul>
+					<li style="color: white;font-size: 20px;"><strong>© MHARO RAJASTHAN 2017. All rights reserved.</strong></li>
+						</ul>
 				</footer>
 
 		</div>
